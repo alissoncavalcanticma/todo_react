@@ -1,35 +1,23 @@
-# Registry of node-passport project
+# Registry of todo_react project
 
-###### Obs: Copy node project base of node_base_api from suporteb7web/node_base_api
-##### Foi usado o site abaixo para ...:
+##### Foi usada a video aula abaixo como base:
+https://www.youtube.com/watch?v=YVEVrigByKY
 
 > 
 
-####  Para ...:
+####  Para preparação do ambiente:
 
-  - Instalando a lib passport
-    `npm i passport`
+  - Criado projeto com o vite (Ambiente de desenvolvimento rápido)
+    `npm create vite@latest`
 
-      - Instalando suporte ao typescript para a lib:
-        `npm i -D @types/passport`
+    OBS: Definido com React e JavaScript puro
 
-  - Instalando a lib passport-http
-    `npm i passport-http`
+    Iniciando o projeto:
 
-      - Instalando suporte ao typescript para a lib
-        `npm i -D @types/passport-http`
+    - `cd todo_react`
+    - `npm i`
+    - `npm run dev`
 
-  - Instalando a lib passport-jwt
-    `npm i passport-jwt`
-
-      - Instalando suporte ao typescript para a lib
-        `npm i -D @types/passport-jwt`
-
-  - Instalando a lib jsonwebtoken (Para geração do token no login)
-    `npm i jsonwebtoken`
-
-      - Instalando suporte ao typescript para a lib
-        `npm i -D @types/jsonwebtoken`
 
 ####Instruções:
 

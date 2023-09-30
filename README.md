@@ -1,19 +1,19 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="node-passport-jwt" />
+  <img src="./.github/app.gif" alt="todo_react project" />
 
   &#xa0;
 </div>
 
-<h1 align="center">node-passport for JWT authentication</h1>
+<h1 align="center">todo_react</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alissoncavalcanticma/node-passport-jwt?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alissoncavalcanticma/todo_react?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alissoncavalcanticma/node-passport-jwt?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alissoncavalcanticma/todo_react?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alissoncavalcanticma/node-passport-jwt?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alissoncavalcanticma/todo_react?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/alissoncavalcanticma/node-passport-jwt?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/alissoncavalcanticma/todo_react?color=56BEB8">
 
 </p>
 
@@ -30,33 +30,25 @@
 
 ## :dart: About ##
 
-Projeto usado na aula da lib Passport do curso de NodeJS da B7Web
+Projeto usado com base na vídeo aula do Matheus Batisti sobre TO-DO List App com React
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Node.js](https://nodejs.org/en/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [React.js](https://react.dev/)
+- [Vite](https://vitejs.dev/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [React.js](https://react.dev/) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/alissoncavalcanticma/node-passport-jwt
+$ git clone https://github.com/alissoncavalcanticma/todo_react
 
-# Access
-$ cd node-passport-jwt
-
-# Install dependencies
-$ npm i
-
-# Run the project
-$ npm run start-dev
 
 # The server will initialize in the <http://localhost:4000>
 ```
