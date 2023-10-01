@@ -21,8 +21,4 @@ https://www.youtube.com/watch?v=YVEVrigByKY
 
 ####Instruções:
 
- - Importar lib no server
- - Inicializar ele antes da definição das rotas com:
-  `server.use(passport.initialize());`
- - Criar pasta no path src com nome 'config' para fazer a configuração do passport
- - Criar arquivo passport.ts, onde irá conter toda a configuração do passport 
+ - 
