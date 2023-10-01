@@ -54,6 +54,12 @@ $ git clone https://github.com/alissoncavalcanticma/todo_react
 ```
 For registry of this project, see the [REGISTRY](registry.md) file.
 
+## View ##
+
+<div align="rigth"> 
+  <img src="./src/img/todo.png" width="60%" alt="todo_react project" />
+</div>
+
 ## :memo: License ##
 
 This project is under license from MIT License. For more details, see the [LICENSE](LICENSE.md) file.
